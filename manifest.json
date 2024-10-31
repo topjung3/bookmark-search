@@ -14,7 +14,7 @@
     "96": "icon.svg"
   },
   "omnibox": {
-    "keyword": "b"
+    "keyword": "bm"
   },
   "background": {
     "scripts": ["fuse.min.js", "background.js"]
